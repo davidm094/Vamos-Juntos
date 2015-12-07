@@ -1,0 +1,21 @@
+This zip file contains optimized resources for http://vamosjuntos.github.io/web. The optimized resources are listed below in the format of: 
+filename: url
+
+Note: We only include up to 10 MB of optimized contents. If the
+optimized contents of your page are larger than 10 MB, we list them in
+this file too, with 'NOT INCLUDED' to indicate those URLs require
+further optimization.
+
+css/bootstrap.min.css: http://vamosjuntos.github.io/web/css/bootstrap.min.css
+css/font-awesome.min.css: http://vamosjuntos.github.io/web/font-awesome/css/font-awesome.min.css
+css/animate.min.css: http://vamosjuntos.github.io/web/css/animate.min.css
+css/creative.css: http://vamosjuntos.github.io/web/css/creative.css
+js/jquery.js: http://vamosjuntos.github.io/web/js/jquery.js
+js/bootstrap.min.js: http://vamosjuntos.github.io/web/js/bootstrap.min.js
+js/jquery.easing.min.js: http://vamosjuntos.github.io/web/js/jquery.easing.min.js
+js/jquery.fittext.js: http://vamosjuntos.github.io/web/js/jquery.fittext.js
+js/wow.min.js: http://vamosjuntos.github.io/web/js/wow.min.js
+js/creative.js: http://vamosjuntos.github.io/web/js/creative.js
+image/1-c.jpg: http://vamosjuntos.github.io/web/img/clients/1-c.jpg
+image/2-c.jpg: http://vamosjuntos.github.io/web/img/clients/2-c.jpg
+image/3-c.jpg: http://vamosjuntos.github.io/web/img/clients/3-c.jpg
